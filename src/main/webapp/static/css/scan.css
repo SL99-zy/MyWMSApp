@@ -1,0 +1,21 @@
+.scan-container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.scan-container input {
+    width: 60%;
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid #007bff;
+    border-radius: 5px;
+}
+
+.scan-container button {
+    margin-top: 10px;
+}
+
+.loading {
+    color: #007bff;
+    font-weight: bold;
+}
